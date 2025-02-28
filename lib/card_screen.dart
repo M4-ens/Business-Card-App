@@ -26,6 +26,7 @@ class BusinessCardScreen extends StatelessWidget {
               Text('Malak Ezzat',style: TextStyle(color:Colors.white,fontSize: 30, fontFamily:'Pacifico'),),
               Text('Flutter Developer',style: TextStyle(color:Colors.grey,fontSize: 15, fontFamily: 'Pacifico')),
             ],
+            //
             ),
         ),
     ) ;
